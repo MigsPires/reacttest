@@ -11,6 +11,7 @@ class Ola extends Component {
     render() {
       return (
       <div>
+          asdfasdfasdfasd
         {this.state.merda}
         <br/>
         {this.props.texto}
